@@ -1,6 +1,6 @@
 package rbac.filters;
 
-import model.RoleAssignment;
+import rbac.data.RoleAssignment;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Comparator;

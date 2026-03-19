@@ -1,6 +1,6 @@
 package rbac.data;
 
-import util.Validatable;
+import rbac.data.Validatable;
 import java.util.*;
 
 public class Role implements Validatable {

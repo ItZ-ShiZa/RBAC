@@ -1,6 +1,6 @@
 package rbac.data;
 
-import util.Validatable;
+import rbac.data.Validatable;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Objects;

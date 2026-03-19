@@ -1,6 +1,6 @@
 package rbac.filters;
 
-import model.Role;
+import rbac.data.Role;
 
 @FunctionalInterface
 public interface RoleFilter {

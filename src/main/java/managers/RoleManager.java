@@ -1,9 +1,9 @@
 package rbac.managers;
 
-import filters.RoleFilter;
-import model.Permission;
-import model.Role;
-import repository.Repository;
+import rbac.filters.RoleFilter;
+import rbac.data.Permission;
+import rbac.data.Role;
+import rbac.repository.Repository;
 
 import java.util.*;
 import java.util.stream.Collectors;

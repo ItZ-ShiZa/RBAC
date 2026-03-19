@@ -1,6 +1,6 @@
 package rbac.data;
 
-import util.Validatable;
+import rbac.data.Validatable;
 import java.util.regex.Pattern;
 
 public record User(String username, String fullName, String email) implements Validatable {

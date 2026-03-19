@@ -1,7 +1,7 @@
 package rbac.filters;
 
-import model.Permission;
-import model.Role;
+import rbac.data.Permission;
+import rbac.data.Role;
 
 public class RoleFilters {
 

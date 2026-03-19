@@ -1,7 +1,7 @@
 package rbac;
 
-import managers.UserManager;
-import model.User;
+import rbac.managers.UserManager;
+import rbac.data.User;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

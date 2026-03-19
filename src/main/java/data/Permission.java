@@ -1,6 +1,6 @@
 package rbac.data;
 
-import util.Validatable;
+import rbac.data.Validatable;
 import java.util.Objects;
 
 public record Permission(String name, String resource, String description) implements Validatable {

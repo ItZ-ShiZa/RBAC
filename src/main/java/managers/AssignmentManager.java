@@ -1,8 +1,8 @@
 package rbac.managers;
 
-import filters.AssignmentFilter;
-import model.*;
-import repository.Repository;
+import rbac.filters.AssignmentFilter;
+import rbac.data.*;
+import rbac.repository.Repository;
 
 import java.util.*;
 import java.util.stream.Collectors;

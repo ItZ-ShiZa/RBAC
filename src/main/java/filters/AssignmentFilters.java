@@ -1,6 +1,6 @@
 package rbac.filters;
 
-import model.*;
+import rbac.data.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 

@@ -1,6 +1,6 @@
 package rbac.filters;
 
-import model.User;
+import rbac.data.User;
 
 @FunctionalInterface
 public interface UserFilter {

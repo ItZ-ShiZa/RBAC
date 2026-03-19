@@ -1,7 +1,7 @@
 package rbac;
 
-import managers.AssignmentManager;
-import model.*;
+import rbac.managers.AssignmentManager;
+import rbac.data.*;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

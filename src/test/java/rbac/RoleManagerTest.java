@@ -1,8 +1,8 @@
 package rbac;
 
-import managers.RoleManager;
-import model.Permission;
-import model.Role;
+import rbac.managers.RoleManager;
+import rbac.data.Permission;
+import rbac.data.Role;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

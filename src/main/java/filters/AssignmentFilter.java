@@ -1,6 +1,6 @@
 package rbac.filters;
 
-import model.RoleAssignment;
+import rbac.data.RoleAssignment;
 
 @FunctionalInterface
 public interface AssignmentFilter {
